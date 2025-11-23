@@ -1,6 +1,6 @@
-DESIGN:
-Every page will use the same header except for index.html which will be, like gpasshop, a big photo. |
-All pages will use the same footer when we get to it. 
+DESIGN GUIDELINES:
+1) Every page will use the same header except for index.html which will be, like gpasshop, a big photo. |
+2) All pages will use the same footer when we get to it. 
 *** All code must be html or js unless approved by John beforehand. 
 *** All code must be severely documented, especially a section ot a function to assist in my understanding of it and also to easily and accurately locate code to be edited. 
 Primary build is for 1) tablet screen, 2) mobile phone screen, 3) desktop screen. 
